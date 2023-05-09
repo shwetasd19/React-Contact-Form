@@ -1,5 +1,5 @@
 {
-  "homepage": "https://shwetd19.github.io/Main-Contact-Form",
+  "homepage": "https://shwetasd19.github.io/React-Contact-Form/",
   "name": "contact-form",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy":"npm run build",
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
