@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Main-Contact-Form/static/css/main.b26c9f98.css",
+    "main.js": "/Main-Contact-Form/static/js/main.0d424a0e.js",
+    "static/js/787.656c9895.chunk.js": "/Main-Contact-Form/static/js/787.656c9895.chunk.js",
+    "index.html": "/Main-Contact-Form/index.html",
+    "main.b26c9f98.css.map": "/Main-Contact-Form/static/css/main.b26c9f98.css.map",
+    "main.0d424a0e.js.map": "/Main-Contact-Form/static/js/main.0d424a0e.js.map",
+    "787.656c9895.chunk.js.map": "/Main-Contact-Form/static/js/787.656c9895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b26c9f98.css",
+    "static/js/main.0d424a0e.js"
+  ]
+}
